@@ -16,7 +16,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 DataStructures = "~0.17.0"
-GLPK = "~0.12.0"
+GLPK = "~1.0.0"
 JLD2 = "~0.1.12"
 JuMP = "~0.21.0"
 Plots = "~1.24.0"
